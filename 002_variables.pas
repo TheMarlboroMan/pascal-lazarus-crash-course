@@ -61,6 +61,7 @@ they look good}
 
 	writeln(a_string);
 
-{And that ends our chapter on variables: remember, "var" section, ":="...}
+{And that ends our chapter on variables: remember, "var" section to declare
+your variables, ":=" to assign...}
 
 end. //...and that pesky colon. See you on the next chapter.
