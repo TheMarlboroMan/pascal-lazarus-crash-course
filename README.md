@@ -20,6 +20,10 @@
 
 ##Why Pascal?
 
+###But this is not really Pascal.
+
+###But I read somewhere that Pascal is dead.
+
 ##How to use this?
 
 Write along as you read, try and compile often, play with the examples.
