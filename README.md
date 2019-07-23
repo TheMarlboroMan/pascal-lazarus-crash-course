@@ -1,5 +1,17 @@
 #A crash course in Object Pascal and the Lazarus IDE.
 
+#Prerequisites:
+
+- Basic knowledge about coding is required (what are control flow structures,
+	what are functions, what is a class, what is an operator, what are
+	escape sequences...).
+
+- Basic knowledge about data types is required (what is a string, what is a 
+	number, what is an array, what is a map, what is an instance...).
+
+- Basic knowledge about filesystems and streams is required (what is a file,
+	what is the standard input/output...).
+
 ##Tools you will need:
 
 - Free Pascal Compiler (2.6.2-8).
