@@ -188,3 +188,11 @@ begin
 	writeln('After passing by reference, my number is ', mynumber);
 
 end.
+
+{And this concludes this chapter. Now that you can write functions and 
+procedures, perhaps you'd like to skip around to the "units" chapter, where we
+will learn how to put these functions into structures we can use in different
+programs. However, I'd rather you'd go ahead and read the next chapter on files
+since it's a short one and will add to your Pascal toolkit greatly (you will be
+able to save and restore the state of your programs by writing and reading 
+from files!).}
